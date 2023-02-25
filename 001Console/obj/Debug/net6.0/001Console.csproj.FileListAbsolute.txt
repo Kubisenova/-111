@@ -1,0 +1,15 @@
+C:\Experiment\Примеры\Примеры\001Console\bin\Debug\net6.0\001Console.exe
+C:\Experiment\Примеры\Примеры\001Console\bin\Debug\net6.0\001Console.deps.json
+C:\Experiment\Примеры\Примеры\001Console\bin\Debug\net6.0\001Console.runtimeconfig.json
+C:\Experiment\Примеры\Примеры\001Console\bin\Debug\net6.0\001Console.dll
+C:\Experiment\Примеры\Примеры\001Console\bin\Debug\net6.0\001Console.pdb
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.csproj.AssemblyReference.cache
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.AssemblyInfoInputs.cache
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.AssemblyInfo.cs
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.csproj.CoreCompileInputs.cache
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.dll
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\refint\001Console.dll
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.pdb
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\001Console.genruntimeconfig.cache
+C:\Experiment\Примеры\Примеры\001Console\obj\Debug\net6.0\ref\001Console.dll
